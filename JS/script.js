@@ -27,4 +27,17 @@ console.log(obj);
 
 // alert(admin);
 
+const obj = {
+  name: "Джон",
+  age: 25,
+  isMarried: false
+};
+//вывод в консоль значения из объекта
+console.log(obj.name) 
 
+// Массивы
+// начинается отсчет с нуля
+            //  0         1     2 - 
+let arr = ['orange','blue','red'];
+// Вывод элемента с порядковым номером:
+console.log(arr[0]);
