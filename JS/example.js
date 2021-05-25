@@ -41,3 +41,9 @@ console.log(obj.name)
 let arr = ['orange','blue','red'];
 // Вывод элемента с порядковым номером:
 console.log(arr[0]);
+// Всплывающее окно с предупреждением
+alert('Hello World!');
+// Pop-up с вопросом
+const result = confirm("Are you here?")
+console.log(result);
+
